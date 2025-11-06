@@ -23,19 +23,7 @@ body {
     background: #adb5bd;
     color: #003049;
     border-bottom: 6px ridge #1b263b;
-    .grid-container {
-  display: grid;
-  grid-template-areas:
-    "header header"
-    "sidebar content";
-}
-
-.header {
-  grid-area: header;
-}
-
-.sidebar {
-  grid-area: sidebar;
+    
 }
         
     /*
